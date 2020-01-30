@@ -1,6 +1,6 @@
 # SQL Intro with Jenna 8-)
 
-## jason
+## json
 ```
 {
   "animal": [
@@ -29,9 +29,16 @@
 
 ## Animal Table
 
-| id | Name | Species | IsAlive |
-| -- | --------- | ----- | ----- |
-| 1 | Megan Barry Obama | cat | true |
-| 2 | Justin Bieber Timberlake| dog | false |
-| 3 | Frida Kahlo Ginsburg | cat | true |
+| id | Name                     | Species | IsAlive |
+|----|--------------------------|---------|---------|
+| 1  | Megan Barry Obama        | cat     | true    |
+| 2  | Justin Bieber Timberlake | dog     | false   |
+| 3  | Frida Kahlo Ginsburg     | cat     | true    |
 
+## ERD
+| Animal  |
+|:------------|
+| id      |
+| Name    |
+| Species |
+| IsAlive |
