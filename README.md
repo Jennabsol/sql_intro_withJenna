@@ -1,4 +1,5 @@
-# SQL Intro with Jenna 8-)
+# SQL Intro with Jenna!
+
 
 ## json
 ```json
