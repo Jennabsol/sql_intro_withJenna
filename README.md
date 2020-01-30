@@ -1,7 +1,7 @@
 # SQL Intro with Jenna 8-)
 
 ## json
-```
+```json
 {
   "animal": [
     {
